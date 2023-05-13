@@ -1,3 +1,7 @@
+#Name: Nick Bear
+#Date: 5/13/2023
+#Assignment: Leetcode 1768. Merge Strings Alternately
+
 class MergeStrings:
     def mergeAlternately(self, word1: str, word2: str) -> str:
       
